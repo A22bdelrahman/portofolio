@@ -36,7 +36,7 @@ Project Explanations
    -   Purpose  : Uses GANs to generate and harden against AI-evasive malware, simulating 2026 attack landscapes.
    -   Innovation  : Co-evolutionary framework tests offensive and defensive ML boundaries.
 
-10.  Federated ML Platform for Cross-Organization Threat Sharing
+10.  Federated ML Platform for Cross-Organization Threat Sharing  
     -   Purpose  : Enables privacy-preserving threat detection across organizations using federated learning.
     -   Innovation  : Incorporates homomorphic encryption for secure model aggregation, addressing regulatory compliance.
 
